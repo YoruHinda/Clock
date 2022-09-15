@@ -1,2 +1,2 @@
-# Relogio Cmd
-Simples relogio feito no terminal para praticar meu conhecimento em c++
+# Clock CMD cpp
+Simple clock made in cpp for practice my knowledge in cpp
